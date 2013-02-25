@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CookieTogglerTests.cs" />
+    <Compile Include="LambdaTogglerTests.cs" />
     <Compile Include="RoleTogglerTests.cs" />
     <Compile Include="StaticTogglerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
