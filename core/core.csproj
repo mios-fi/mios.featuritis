@@ -43,6 +43,7 @@
     <Compile Include="CookieToggler.cs" />
     <Compile Include="Feature.cs" />
     <Compile Include="IToggler.cs" />
+    <Compile Include="LambdaToggler.cs" />
     <Compile Include="MergeToggler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RoleToggler.cs" />
